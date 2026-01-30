@@ -1,4 +1,1 @@
-# sample
-
-
-I am going to edit this using GITHUB MCP
+Hello now this file is edited with GIT hub MCP
