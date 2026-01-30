@@ -5,7 +5,7 @@ def greet(name):
     """Greet a person by name"""
     return f"Hello, {name}!"
 
-def add_numbers(a, b):
+def add(a, b):
     """Add two numbers and return the result"""
     return a + b
 
