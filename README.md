@@ -1,1 +1,1 @@
-Hello now this file is edited with GIT hub MCP
+Hello now this file is edited with GIT hub.
